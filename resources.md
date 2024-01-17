@@ -60,5 +60,46 @@ md# Genomics Resources
 20. **[Genomics and Health Impact Blog](https://genomicsandhealth.org/)**
     - A blog that covers the latest developments in genomics and its impact on health.
 
+# Genomics and Bioinformatics Books
 
-Feel free to explore these resources to deepen your understanding of genomics. Each resource's link will take you to its official website for more details.
+1. **[Bioinformatics Algorithms: An Active Learning Approach](https://www.bioinformaticsalgorithms.org/)**
+   - Author: Phillip Compeau and Pavel Pevzner
+   - A comprehensive guide to bioinformatics algorithms, suitable for both beginners and advanced learners.
+
+2. **[Genome: The Autobiography of a Species in 23 Chapters](https://www.goodreads.com/book/show/118692.Genome)**
+   - Author: Matt Ridley
+   - Explores the significance of each of the 23 chromosomes in the human genome, providing insights into genetics and evolution.
+
+3. **[Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)**
+   - Author: Vince Buffalo
+   - A hands-on book that teaches essential data skills needed for bioinformatics, covering topics from the command line to data visualization.
+
+4. **[Practical Computing for Biologists](https://www.goodreads.com/book/show/11201539-practical-computing-for-biologists)**
+   - Author: Steven Haddock and Casey Dunn
+   - Focuses on practical computing skills for biologists, including scripting, data analysis, and visualization.
+
+5. **[Bioinformatics for Biologists](https://www.cambridge.org/9781108701237)**
+   - Author: Pavel Pevzner
+   - An introductory book that covers fundamental concepts in bioinformatics with a focus on practical applications.
+
+6. **[An Introduction to Bioinformatics Algorithms](https://www.goodreads.com/book/show/648672.An_Introduction_to_Bioinformatics_Algorithms)**
+   - Author: Neil C. Jones and Pavel A. Pevzner
+   - Covers fundamental algorithms used in bioinformatics and provides exercises for hands-on practice.
+
+7. **[Python for Biologists](http://pythonforbiologists.com/)**
+   - Author: Martin Jones
+   - A book tailored for biologists to learn Python programming for bioinformatics applications.
+
+8. **[Bioinformatics: Sequence and Genome Analysis](https://www.springer.com/gp/book/9780387982691)**
+   - Author: David W. Mount
+   - Offers a comprehensive overview of bioinformatics, including sequence alignment, gene prediction, and molecular evolution.
+
+9. **[Statistics and Data Analysis for Microarrays Using R and Bioconductor](https://www.springer.com/gp/book/9780387251463)**
+   - Author: Sorin Draghici
+   - Focuses on statistical analysis of microarray data using the R programming language and Bioconductor.
+
+10. **[Genomics: A Very Short Introduction](https://www.goodreads.com/book/show/17378991-genomics)**
+    - Author: John Archibald
+    - An accessible introduction to the field of genomics, covering key concepts and their impact on biology.
+
+Feel free to explore these resources based on your interests and learning goals. Each book's link will take you to its respective page for more details.
