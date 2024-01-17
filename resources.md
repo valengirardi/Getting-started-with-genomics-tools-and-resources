@@ -29,7 +29,7 @@ md# Genomics Resources
 
 10. **[GenomeWeb](https://www.genomeweb.com/)**
     - A news source covering the field of genomics and molecular diagnostics.
-    - 
+   
 11. **[GenBank](https://www.ncbi.nlm.nih.gov/genbank/)**
     - A genetic sequence database maintained by the National Center for Biotechnology Information (NCBI).
 
